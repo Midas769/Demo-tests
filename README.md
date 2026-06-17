@@ -1,6 +1,6 @@
 # 🧪 UI AutoTests для Saucedemo
 
-Учебный фреймворк для автоматизации тестирования интернет-магазина [Saucedemo](https://www.saucedemo.com/).
+Фреймворк для автоматизации тестирования интернет-магазина [Saucedemo](https://www.saucedemo.com/).
 
 ## 🚀 Быстрый старт
 
